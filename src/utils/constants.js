@@ -1,0 +1,31 @@
+export default Object.freeze({
+  MONTH_LIST: [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ],
+  MONTH_LIST_SHORT: [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sept",
+    "Oct",
+    "Nov",
+    "Dec",
+  ],
+  DAY_LIST: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]
+});
